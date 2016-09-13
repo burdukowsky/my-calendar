@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Мой Календарь (в разработке)</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <string-array name="month_array">
+        <item>ЯНВАРЬ</item>
+        <item>ФЕВРАЛЬ</item>
+        <item>МАРТ</item>
+        <item>АПРЕЛЬ</item>
+        <item>МАЙ</item>
+        <item>ИЮНЬ</item>
+        <item>ИЮЛЬ</item>
+        <item>АВГУСТ</item>
+        <item>СЕНТЯБРЬ</item>
+        <item>ОКТЯБРЬ</item>
+        <item>НОЯБРЬ</item>
+        <item>ДЕКАБРЬ</item>
+    </string-array>
+
+    <string-array name="week_array">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+</resources>
